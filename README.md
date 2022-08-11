@@ -1,6 +1,9 @@
 # BII_workshop1
 First Repository - made as git version control
 
+Adding some text, stage & commit
+
+
 
 # header 2
 #header 3
@@ -8,3 +11,5 @@ First Repository - made as git version control
 
 
 ## header 4
+
+
